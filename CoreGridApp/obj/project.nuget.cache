@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgtk0US9SDmsZgXT7sZm8X154bqGjgYGyY2IwJpXVhFc/0jUblHR57Riq7jYAS8/TaMzU2IpwyRn4Vrnu+Y/uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RajapandiRavi\\Downloads\\571771 sample\\CoreGridApp\\CoreGridApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RajapandiRavi\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\RajapandiRavi\\.nuget\\packages\\syncfusion.ej2.aspnet.core\\25.1.35\\syncfusion.ej2.aspnet.core.25.1.35.nupkg.sha512",
+    "C:\\Users\\RajapandiRavi\\.nuget\\packages\\syncfusion.licensing\\25.1.35\\syncfusion.licensing.25.1.35.nupkg.sha512",
+    "C:\\Users\\RajapandiRavi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\RajapandiRavi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\RajapandiRavi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\RajapandiRavi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

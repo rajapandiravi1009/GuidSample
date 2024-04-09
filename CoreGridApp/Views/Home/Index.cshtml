@@ -1,0 +1,50 @@
+﻿<ejs-grid id="Grid" allowPaging='true' actionBegin="actionBegin" actionComplete="actionComplete" allowFiltering='true' allowSorting="true" toolbar="@(new List<string>() { "Add", "Edit", "Delete","Update","Cancel" })">
+    <e-grid-pagesettings pageSize="7" />
+    <e-grid-filterSettings type="Menu"></e-grid-filterSettings>
+    <e-grid-editSettings allowAdding="true" allowDeleting="true" allowEditing="true" mode="Normal"></e-grid-editSettings>
+    <e-data-manager url="@Url.Action("UrlDataSource", "Home")" insertUrl="/Home/Insert" updateUrl="/Home/Update" removeUrl="/Home/Remove" adaptor="UrlAdaptor" />
+    <e-grid-columns>
+        <e-grid-column field="id" type="string" headerText="Order ID" isPrimaryKey="true" textAlign="Right" width="120"></e-grid-column>
+        <e-grid-column field="customerID" type="string" headerText="Customer ID" width="140"></e-grid-column>
+        <e-grid-column field="freight" type="number" headerText="Freight" textAlign="Right" format="C2" width="120"></e-grid-column>
+        <e-grid-column field="shipCity" type="string" headerText="Ship Country" width="140"></e-grid-column>
+    </e-grid-columns>
+</ejs-grid>
+
+<script>
+    var initialRequest = false;
+    var loadVal = false;
+    function actionComplete(args) {
+        if (args.requestType === "filterAfterOpen") {
+            initialRequest = true;
+            var autoCompleteInst = args.filterModel.dlgObj.element.querySelector('.e-autocomplete').ej2_instances[0];
+            loadVal = (autoCompleteInst.value !== null) ? true : false;
+            autoCompleteInst.actionBegin = (args) => {
+                if (!initialRequest || !loadVal) {
+                    args.cancel = true;
+                }
+                initialRequest = false;
+                loadVal = false;
+            }
+        }
+    }
+
+    function actionBegin(args) {
+        if (args.requestType === 'filterBeforeOpen' && args.columnName === 'id') {
+            this.filterModule.customOperators.stringOperator = [{ text: 'Equal', value: 'equal' }];
+        } else {
+            this.filterModule.customOperators.stringOperator = [
+                { text: 'Starts With', value: 'startswith' },
+                { text: 'Ends With', value: 'endswith' },
+                { text: 'Contains', value: 'contains' },
+                { text: 'Equal', value: 'equal' },
+                { text: 'Empty', value: 'isempty' },
+                { text: 'Does Not Start With', value: 'doesnotstartwith' },
+                { text: 'Does Not End With', value: 'doesnotendwith' },
+                { text: 'Does Not Contain', value: 'doesnotcontain' },
+                { text: 'Not Equal', value: 'notequal' },
+                { text: 'Not Empty', value: 'isnotempty' },
+                { text: 'Like', value: 'like' }];
+        }
+    }
+</script>

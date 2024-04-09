@@ -1,0 +1,72 @@
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\bin\Debug\net6.0\appsettings.json
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\bin\Debug\net6.0\CoreGridApp.staticwebassets.runtime.json
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\bin\Debug\net6.0\CoreGridApp.exe
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\bin\Debug\net6.0\CoreGridApp.deps.json
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\bin\Debug\net6.0\CoreGridApp.runtimeconfig.json
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\bin\Debug\net6.0\CoreGridApp.dll
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\bin\Debug\net6.0\CoreGridApp.pdb
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\bin\Debug\net6.0\Syncfusion.EJ2.dll
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.csproj.AssemblyReference.cache
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.AssemblyInfoInputs.cache
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.AssemblyInfo.cs
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.csproj.CoreCompileInputs.cache
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.RazorAssemblyInfo.cache
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.RazorAssemblyInfo.cs
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\staticwebassets\msbuild.CoreGridApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CoreGridApp.props
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoreGridApp.props
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoreGridApp.props
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\scopedcss\bundle\CoreGridApp.styles.css
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\scopedcss\projectbundle\CoreGridApp.bundle.scp.css
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGrid.2DCF64D4.Up2Date
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.dll
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\refint\CoreGridApp.dll
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.pdb
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\CoreGridApp.genruntimeconfig.cache
+D:\Locals\CoreGridApp 1 (1)\CoreGridApp\obj\Debug\net6.0\ref\CoreGridApp.dll
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.csproj.AssemblyReference.cache
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.AssemblyInfoInputs.cache
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.AssemblyInfo.cs
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.csproj.CoreCompileInputs.cache
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.RazorAssemblyInfo.cache
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.RazorAssemblyInfo.cs
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\bin\Debug\net6.0\appsettings.json
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\bin\Debug\net6.0\CoreGridApp.staticwebassets.runtime.json
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\bin\Debug\net6.0\CoreGridApp.exe
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\bin\Debug\net6.0\CoreGridApp.deps.json
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\bin\Debug\net6.0\CoreGridApp.runtimeconfig.json
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\bin\Debug\net6.0\CoreGridApp.dll
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\bin\Debug\net6.0\CoreGridApp.pdb
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\bin\Debug\net6.0\Syncfusion.EJ2.dll
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\staticwebassets\msbuild.CoreGridApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\staticwebassets\msbuild.build.CoreGridApp.props
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoreGridApp.props
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoreGridApp.props
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\scopedcss\bundle\CoreGridApp.styles.css
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\scopedcss\projectbundle\CoreGridApp.bundle.scp.css
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.csproj.CopyComplete
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.dll
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\refint\CoreGridApp.dll
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.pdb
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\CoreGridApp.genruntimeconfig.cache
+C:\Users\RajapandiRavi\Downloads\571771 sample\CoreGridApp\obj\Debug\net6.0\ref\CoreGridApp.dll
