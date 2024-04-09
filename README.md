@@ -16,8 +16,8 @@ private static void BindDataSource()
   int code = 10000;
 
   
-    order.Add(new Orders(<mark>new Guid</mark>("7b3bb973-6ec1-4374-9038-ffd6c6d55a50"),code + 1, "LOFKI", 1 + 0, 2.3 * 1, new DateTime(1991, 05, 15), "Berlin"));
-    order.Add(new Orders(<mark>new Guid</mark>("8be33eb2-cff6-4871-a7c3-f1a233d70184"), code + 2, "ANATR", 1 + 2, 3.3 * 1, new DateTime(2017, 08, 11), "Madrid"));
+    order.Add(new Orders(**new Guid**("7b3bb973-6ec1-4374-9038-ffd6c6d55a50"),code + 1, "LOFKI", 1 + 0, 2.3 * 1, new DateTime(1991, 05, 15), "Berlin"));
+    order.Add(new Orders(**new Guid**("8be33eb2-cff6-4871-a7c3-f1a233d70184"), code + 2, "ANATR", 1 + 2, 3.3 * 1, new DateTime(2017, 08, 11), "Madrid"));
   
 
   
@@ -25,7 +25,7 @@ private static void BindDataSource()
 
 public class Orders
 {
-  public Orders(<mark>Guid id</mark>, long OrderId, string CustomerId, int EmployeeId, double Freight, DateTime? OrderDate, string ShipCity)
+  public Orders(**Guid id**, long OrderId, string CustomerId, int EmployeeId, double Freight, DateTime? OrderDate, string ShipCity)
   {
     this.id = id;
     this.OrderID = OrderId;
@@ -35,7 +35,7 @@ public class Orders
     this.OrderDate = OrderDate;
     this.ShipCity = ShipCity;
   }
-  public <mark>Guid id </mark> { get; set; }
+  public **Guid id ** { get; set; }
   public long OrderID { get; set; }
   public string CustomerID { get; set; }
   public int EmployeeID { get; set; }
